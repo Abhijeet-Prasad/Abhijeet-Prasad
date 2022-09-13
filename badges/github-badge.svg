@@ -1,0 +1,57 @@
+<svg fill="none" width="130" height="45" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				div {
+					width: 100%;
+					height: 35px;
+					font-weight: 500;
+					letter-spacing: 1px;
+					background-color:#222;
+					color:#fff;
+					font-size:20px;
+					font-family:sans-serif;
+					white-space:nowrap;
+					background-repeat:no-repeat;
+					background-position:center;
+					border-radius:3px;
+					background-image:url('data:image/png;base64,AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENyZWF0aW9uIFRpbWUANi80LzE0kRMgQQAAAN1JREFUOI2VkbENAjEMRb/p6GCDk1iAhhKJil2YgYYBGOJaVqDhJEpuBcQGiI7yUeCgEHwHuIkc/+cXKVJQwAYYdcwEhIOKZ23+BWsHb5E1BDMbXdYusC7AG1D1gsCUuOpvYJOFLwVchSCwKIPAIbKWYFOGgmXTNzCyZdtza1OCH7ae71kk2Mp/8sFE0srbnZmd/H4taSypHUSgmZ0ltd4uHZo5JEn7EExDP8cOLb1vJV07QTO7Jqs/9WWTpD7jKwRsk80X9oMeOnp7z57/1Zisd0nHZPu5gDkwzHo9ADWCdl4uXrJLAAAAAElFTkSuQmCC');
+            		display: flex;
+            		align-items: center;
+            		justify-content: left;
+            		gap: 10px;
+            		-moz-box-shadow:0px 4px 4px rgba(0,0,0,0.2);
+  					-webkit-box-shadow:0px 4px 4px rgba(0,0,0,0.2);
+  					box-shadow:0px 4px 4px rgba(0,0,0,0.2);
+					cursor: pointer;
+        		}
+        
+        		.img-span{
+            		height: 100%;
+            		width: 35px;
+            		background-color: #fff;
+            		display: flex;
+            		align-items: center;
+            		justify-content: center;
+					border-radius: 3px 0 0 3px;
+        		}
+        
+				.img-span img{
+					height: 23px;
+					margin: auto 10px;
+					object-fit: contain;
+				}
+
+        		.company{
+            		margin-top: 2px;
+        		}
+			</style>
+				<div>
+					<span class="img-span">
+						<img src="data:image/png;base64,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"/>
+					</span>
+					<span class="company">Github</span>
+    			</div>
+		</div>
+	</foreignObject>
+</svg>
