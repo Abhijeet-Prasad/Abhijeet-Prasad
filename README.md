@@ -99,10 +99,14 @@
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+
 JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+
 HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+
 CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
