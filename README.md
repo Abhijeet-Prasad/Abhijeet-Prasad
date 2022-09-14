@@ -79,13 +79,15 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2022
+> 🏆 43 Contributions in the Year 2022
  > 
 > 📦 7.7 kB Used in GitHub's Storage 
  > 
@@ -98,11 +100,19 @@
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
 JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/09/2022 15:11:23 UTC
 <!--END_SECTION:waka-->
