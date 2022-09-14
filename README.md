@@ -14,15 +14,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/abhijeetprasad15" target="blank">
-    <img src="./badges/linkedin-badge.svg" alt="abhijeetprasad15" height="45"/>
-  </a> &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://kaggle.com/abhijeetprasad08" target="blank">
-    <img src="./badges/kaggle-badge.svg" alt="abhijeetprasad08" height="45" />
-  </a> &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://www.codechef.com/users/abhijeetprasad" target="blank">
-    <img src="./badges/codechef-badge.svg" alt="abhijeetprasad" height="45" />
-  </a> &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://linkedin.com/in/abhijeetprasad15" target="blank"><img src="./badges/linkedin-badge.svg" alt="abhijeetprasad15" height="50"/></a>
+  <a href="https://github.com/Abhijeet-Prasad" target="blank"><img src="./badges/github-badge.svg" alt="Abhijeet-Prasad" height="50"/></a>
+  <a href="https://kaggle.com/abhijeetprasad08" target="blank"><img src="./badges/kaggle-badge.svg" alt="abhijeetprasad08" height="50" /></a>
+  <a href="https://www.codechef.com/users/abhijeetprasad" target="blank"><img src="./badges/codechef-badge.svg" alt="abhijeetprasad" height="50" /></a>
+  <a href="https://www.hackerrank.com/abhijeetprasad12" target="blank"><img src="./badges/hackerrank-badge.svg" alt="abhijeetprasad12" height="50"/></a>
 </p>
 
 ----------
