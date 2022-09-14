@@ -78,7 +78,6 @@
 
 ----------
 
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -100,22 +99,10 @@
 
 ```text
 Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
-
 JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-
-CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/09/2022 12:19:05 UTC
 <!--END_SECTION:waka-->
