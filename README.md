@@ -79,7 +79,7 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
@@ -89,7 +89,7 @@
 
 > 🏆 61 Contributions in the Year 2022
  > 
-> 📦 14.2 kB Used in GitHub's Storage 
+> 📦 19.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -155,5 +155,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 18:11:58 UTC
+ Last Updated on 17/09/2022 21:09:19 UTC
 <!--END_SECTION:waka-->
