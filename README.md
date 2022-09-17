@@ -79,15 +79,15 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 54 Contributions in the Year 2022
+> 🏆 61 Contributions in the Year 2022
  > 
 > 📦 14.2 kB Used in GitHub's Storage 
  > 
@@ -97,24 +97,24 @@
  > 
 > 🔑 7 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    22 commits     █████████░░░░░░░░░░░░░░░░   39.29% 
-🌃 Evening    22 commits     █████████░░░░░░░░░░░░░░░░   39.29% 
-🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+🌞 Morning    8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+🌆 Daytime    22 commits     ████████░░░░░░░░░░░░░░░░░   34.92% 
+🌃 Evening    29 commits     ███████████░░░░░░░░░░░░░░   46.03% 
+🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-Wednesday    17 commits     ███████░░░░░░░░░░░░░░░░░░   30.36% 
+Tuesday      10 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Wednesday    17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.98% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       29 commits     █████████████░░░░░░░░░░░░   51.79% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       29 commits     ███████████░░░░░░░░░░░░░░   46.03% 
+Saturday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -155,5 +155,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 15:10:36 UTC
+ Last Updated on 17/09/2022 18:11:58 UTC
 <!--END_SECTION:waka-->
