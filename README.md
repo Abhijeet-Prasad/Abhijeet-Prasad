@@ -79,7 +79,7 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
@@ -155,5 +155,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 06:39:31 UTC
+ Last Updated on 23/09/2022 09:15:17 UTC
 <!--END_SECTION:waka-->
