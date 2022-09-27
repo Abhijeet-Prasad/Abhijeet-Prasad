@@ -29,21 +29,21 @@
     <a href="https://python.org" target="_blank" rel="noreferrer">
         <img src="./icons/python-icon.png" alt="Python" title="Python" height="100"/>
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<!--     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="./icons/pandas-icon.png" alt="Pandas" title="Pandas" height="100"/>
-    </a>
+    </a> 
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="./icons/numpy-icon.png" alt="Numpy" title="Numpy" height="100"/>
-    </a>
+    </a> -->
     <a href="https://www.tableau.com/community/public" target="_blank" rel="noreferrer">
         <img src="./icons/tableau-icon.png" alt="Tableau" title="Tableau" height="100"/>
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="./icons/excel-icon.png" alt="Spredsheet" title="Spredsheet" height="100"/>
     </a>
-    <a href="https://docs.microsoft.com/en-us/training/powerplatform/power-bi" target="_blank" rel="noreferrer">
+<!--     <a href="https://docs.microsoft.com/en-us/training/powerplatform/power-bi" target="_blank" rel="noreferrer">
         <img src="./icons/power-bi-icon.png" alt="Power BI" title="Power BI" height="100"/>
-    </a>
+    </a> -->
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="./icons/jupyter-icon.png" alt="Jupyter Notebook" title="Jupyter Notebook" height="100"/>
     </a>
