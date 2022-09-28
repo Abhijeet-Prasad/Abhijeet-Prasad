@@ -79,9 +79,9 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-438%20Thousand%20lines%20of%20code-blue)
 
@@ -89,7 +89,7 @@
 
 > 🏆 80 Contributions in the Year 2022
  > 
-> 📦 19.6 kB Used in GitHub's Storage 
+> 📦 19.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -124,17 +124,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               35 hrs 21 mins      ███████████████████████░░   94.53% 
-CSS                      1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+JavaScript               40 hrs 50 mins      ███████████████████████░░   95.2% 
+CSS                      1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-VS Code                  37 hrs 24 mins      █████████████████████████   100.0%
+VS Code                  42 hrs 54 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  37 hrs 24 mins      █████████████████████████   100.0%
+Windows                  42 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -155,5 +155,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2022 21:10:20 UTC
+ Last Updated on 28/09/2022 00:56:17 UTC
 <!--END_SECTION:waka-->
