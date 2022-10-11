@@ -79,9 +79,9 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-438%20Thousand%20lines%20of%20code-blue)
 
@@ -152,5 +152,5 @@ Python                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 15:14:24 UTC
+ Last Updated on 11/10/2022 18:16:56 UTC
 <!--END_SECTION:waka-->
