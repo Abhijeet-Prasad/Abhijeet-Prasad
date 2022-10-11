@@ -79,7 +79,7 @@
 ----------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -124,13 +124,14 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      59 mins             ████████████████████░░░░░   79.73% 
+HTML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 15 mins        █████████████████████████   100.0%
 
 ```
 
@@ -151,5 +152,5 @@ Python                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 21:12:00 UTC
+ Last Updated on 11/10/2022 00:50:52 UTC
 <!--END_SECTION:waka-->
