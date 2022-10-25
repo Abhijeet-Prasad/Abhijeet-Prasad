@@ -124,14 +124,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSV                      1 hr 41 mins        ████████████████████████░   97.55% 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -152,5 +151,5 @@ Python                   2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Abhijeet-Prasad/Abhijeet-Prasad/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 21:12:37 UTC
+ Last Updated on 25/10/2022 01:01:24 UTC
 <!--END_SECTION:waka-->
