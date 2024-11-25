@@ -44,9 +44,9 @@
 <!--     <a href="https://docs.microsoft.com/en-us/training/powerplatform/power-bi" target="_blank" rel="noreferrer">
         <img src="./icons/power-bi-icon.png" alt="Power BI" title="Power BI" height="100"/>
     </a> -->
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+<!--     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
         <img src="./icons/jupyter-icon.png" alt="Jupyter Notebook" title="Jupyter Notebook" height="100"/>
-    </a>
+    </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="./icons/mysql-icon.png" alt="MySQL" title="MySQL" height="100"/>
     </a>
@@ -62,7 +62,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="./icons/javascript-icon.png" alt="JavaScript" title="JavaScript" height="100"/>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="./icons/mongodb-icon.png" alt="MangoDB" title="MangoDB" height="100"/> 
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="./icons/nodejs-icon.png" alt="NodeJs" title="NodeJs" height="100"/>
-    </a>
+    </a> -->
 </h2>
 
 ----------
